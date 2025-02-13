@@ -6,3 +6,6 @@
 ## [برای مشاهده فیلم آموزشی **این** پروژه تمرینی در وب سایت آپارات کلیک کنید](https://aparat.com/v/xkp4v3d)
 ### [برای مشاهده پروژه تمرینی شماره 2 در گیت هاب کلیک کنید](https://github.com/ActiveGamers/AutomaticClockTime)
 ### [برای مشاهده پروژه تمرینی شماره 3 در گیت هاب کلیک کنید](https://github.com/ActiveGamers/GuessNumber)
+
+
+## همچنین برای حل یک تمرین سخت از "پارادوکس مونتی هال" [کلیک کنید](https://github.com/ActiveGamers/MontyHall)
